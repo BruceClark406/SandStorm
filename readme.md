@@ -1,2 +1,2 @@
 This is the code for my final project in EGEN 310. EGEN 310 is a multidisciplinary engineering course where a group of engineers get together and build a vehicle to navigate an obstacle course. This is the final code for the app which was built in Android Studios to control a Bluetooth car and C code used on the Arduino nano. The app was built around Android 10 (KitKat) and the interface looks as follows:
-[My App Interface]( https://github.com/BruceClark406/SandStorm/blob/master/InterfacePic.png)
+![My App Interface](https://github.com/BruceClark406/SandStorm/blob/master/InterfacePic.png)
